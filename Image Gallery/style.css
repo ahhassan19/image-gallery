@@ -1,0 +1,26 @@
+
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+.ani{
+    text-decoration: underline;
+}
+.animal_img > img {
+     border-radius: 20px;
+
+}
+
+.bird{
+    text-decoration: underline;
+}
+.bird_img > img {
+    border-radius: 20px;
+}
+.insect{
+    text-decoration: underline;
+}
+.insect_img > img {
+    border-radius: 20px;
+}
